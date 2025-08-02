@@ -1,0 +1,29 @@
+body{
+  padding: 10px;
+}
+
+  .page {
+  font-family: Arial, Verdana, sans-serif;
+  border: 1px solid #665544;
+  color: #efefef;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: condensed;
+  opacity: 0.7;
+  background-color: #efefef; 
+  background-color: hsla(10, 60%, 30%, 0.7);
+  padding: 10px;
+  text-transform: capitalize;
+}
+ .main-page {
+  text-decoration: line-through;
+  line-height: 50px;
+  letter-spacing: 2em;
+  word-spacing: 5em;
+  
+}
+.book{
+  text-align: center;
+  text-indent: 25px;
+
+}
